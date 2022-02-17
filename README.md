@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Elora.
+- 👀 I’m interested in game design!
+- 🌱 I’m currently learning unity ml agent.
